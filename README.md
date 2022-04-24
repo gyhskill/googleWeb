@@ -25,5 +25,4 @@
   
 
 ## 스크린 샷
-![image](https://user-images.githubusercontent.com/80309650/164955829-b1ea54bb-6566-49fa-8491-0cf3d35d157a.png)  
-
+![image](https://user-images.githubusercontent.com/80309650/164958916-d092be7c-04ea-4b7b-8f72-79d981838f00.png)
