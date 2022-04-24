@@ -4,8 +4,8 @@
 ## 기술 스택 및 사용 환경  
 - 웹 호스팅) GitHub Pages  
 - 에디터) VisualStudioCode  
-- 운영체제) Windows  
-- 언어) html, css
+- 운영체제) Windows 10  
+- 언어) html 5, css 3
 - 부트 스크랩
 
 ## 로직
