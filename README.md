@@ -25,4 +25,5 @@
   
 
 ## 스크린 샷
-![image](https://user-images.githubusercontent.com/80309650/164958916-d092be7c-04ea-4b7b-8f72-79d981838f00.png)
+![image](https://user-images.githubusercontent.com/80309650/164958946-12cbc0fb-dfe9-4127-a44e-0f4dc10fa035.png)
+
