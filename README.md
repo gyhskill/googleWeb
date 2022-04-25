@@ -25,5 +25,6 @@
   
 
 ## 스크린 샷
-![image](https://user-images.githubusercontent.com/80309650/164958946-12cbc0fb-dfe9-4127-a44e-0f4dc10fa035.png)
+1) 메인 화면 
+![초기화면](https://user-images.githubusercontent.com/80309650/165017326-3607104b-9a2d-46f9-84e4-b73101ddd9c6.PNG)
 
