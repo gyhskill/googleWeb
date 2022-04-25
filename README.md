@@ -25,6 +25,11 @@
   
 
 ## 스크린 샷
-1) 메인 화면 
+1) 메인 화면
 ![초기화면](https://user-images.githubusercontent.com/80309650/165017326-3607104b-9a2d-46f9-84e4-b73101ddd9c6.PNG)
+  
+2) 검색어 입력 화면 
+![입력화면](https://user-images.githubusercontent.com/80309650/165017397-b30793ae-0115-488b-8983-0fdd674e38eb.PNG)
 
+3) 검색된 화면
+![검색된화면](https://user-images.githubusercontent.com/80309650/165017454-53668fcb-6530-4ab4-bea4-fcc07d626c4f.PNG)
