@@ -13,14 +13,15 @@
   
 
 ## 코드 설명
-  
+구글 웹 사이트 만들기 
+- https://gyhskill.tistory.com/13
 
 ## 기능  
 - 구글 웹 사이트 검색 
   
 
 ## 사용법  
-아래 사이트 접속해서 사용 및 확인하실 수 있습니다. 
+아래 사이트 접속해서 확인 및 사용해보실 수 있습니다. 
 - https://gyhskill.github.io/googleWeb/  
   
 
